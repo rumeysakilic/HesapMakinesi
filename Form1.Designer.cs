@@ -92,7 +92,7 @@
             Çıkar.TabIndex = 5;
             Çıkar.Text = "Çıkar";
             Çıkar.UseVisualStyleBackColor = true;
-            Çıkar.Click += Çıkar_Click;
+            Çıkar.Click += Cikar_Click;
             // 
             // button3
             // 
